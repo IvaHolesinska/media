@@ -2,7 +2,7 @@ import { configureStore } from '@reduxjs/toolkit'
 import { setupListeners } from '@reduxjs/toolkit/query'
 import { usersReducer } from './slices/usersSlice'
 import { albumsApi } from './apis/albumsApi'
-import { photosApi } from './apis/PhotosApi'
+import { photosApi } from './apis/photosApi'
 
 export const store = configureStore({
   reducer: {
@@ -31,4 +31,4 @@ export {
   useFetchPhotosQuery,
   useAddPhotoMutation,
   useRemovePhotoMutation,
-} from './apis/PhotosApi'
+} from './apis/photosApi'
