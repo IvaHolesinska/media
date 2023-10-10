@@ -8,6 +8,8 @@ const pause = (duration) => {
   })
 }
 
+// Redux Toolkit Query
+
 const albumsApi = createApi({
   reducerPath: 'albums',
   baseQuery: fetchBaseQuery({
