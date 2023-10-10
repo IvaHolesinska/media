@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Mr. Micheal Hintz",
+      "id": 2
+    },
+    {
+      "name": "Martha Trantow",
+      "id": 5
+    },
+    {
+      "name": "Judith Windler I",
+      "id": 7
+    },
+    {
+      "name": "Elbert Pagac-Olson",
+      "id": 9
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Gorgeous Metal Shoes",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Wooden Salad",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Refined Concrete Mouse",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Fresh Shirt",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Frozen Pizza",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Small Cotton Fish",
+      "id": 17
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=520919730618368",
+      "id": 1
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1897901217284096",
+      "id": 2
+    },
+    {
+      "albumId": 12,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8715955882426368",
+      "id": 3
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5202402529509376",
+      "id": 4
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6617353301262336",
+      "id": 5
+    }
+  ]
+}
